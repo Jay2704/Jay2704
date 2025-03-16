@@ -16,7 +16,7 @@ I am a Master's student in Computer Science at the **University of Maryland, Bal
 
 - 🔬 **AI Research:** Multimodal lie detection using EEG & facial expressions with Deep Learning.
 - 🚀 **Software Engineering:** Experience in Mahine Learning, distributed systems, Human-Robot Interection.
-- 📄 **Know about my experiences:** [Resume]([nti63EI/view?usp=sharing](https://drive.google.com/file/d/1MW-xlpzDG3UmbV2JJR-pZbJNrn0iahfI/view?usp=drive_link))
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1MW-xlpzDG3UmbV2JJR-pZbJNrn0iahfI/view?usp=drive_link)
 
 ---
 
