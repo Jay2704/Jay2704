@@ -11,12 +11,12 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-I am a Master's student in Computer Science at the **University of Maryland, Baltimore County (UMBC)** with expertise in **AI, Machine Learning, Deep Learning, and Distributed Systems**. I have experience working as a **Software Engineer at IBM & HPE** and conducting **AI research** at UMBC.
+I am a Master's student in Computer Science at the <b>University of Maryland, Baltimore County (UMBC)</b> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/University_of_Maryland%2C_Baltimore_County_seal.svg/120px-University_of_Maryland%2C_Baltimore_County_seal.svg.png" width="20" height="20" /> with expertise in <b>AI, Machine Learning, Deep Learning, and Distributed Systems</b>. I have experience working as a <b>Software Engineer at IBM & HPE</b> and conducting <b>AI research</b> at UMBC.
 </p>
 
-- 🔬 **AI Research:** Multimodal lie detection using EEG & facial expressions with Deep Learning.
-- 🚀 **Software Engineering:** Experience in Mahine Learning, distributed systems, Human-Robot Interection.
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1MW-xlpzDG3UmbV2JJR-pZbJNrn0iahfI/view?usp=drive_link)
+- 🔬 <b>AI Research:</b> Multimodal lie detection using EEG & facial expressions with Deep Learning.
+- 🚀 <b>Software Engineering:</b> Experience in Machine Learning, distributed systems, Human-Robot Interaction.
+- 📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1MW-xlpzDG3UmbV2JJR-pZbJNrn0iahfI/view?usp=drive_link">Resume</a>
 
 ---
 
