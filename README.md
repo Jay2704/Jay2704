@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Paun</h1>
-<h3 align="center">AI Researcher | Software Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">AI Researcher | Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:jay.maryland2023@gmail.com">📫 Email Me</a> |
