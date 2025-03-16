@@ -54,8 +54,3 @@ I am a Master's student in Computer Science at the <b>University of Maryland, Ba
 
 ---
 
-<h3 align="left">🐍 GitHub Contribution Snake:</h3>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jay2704/Jay2704/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Jay2704/Jay2704/raw/output/github-snake.svg" />
-</picture>
