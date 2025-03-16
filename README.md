@@ -14,9 +14,9 @@
 I am a Master's student in Computer Science at the **University of Maryland, Baltimore County (UMBC)** with expertise in **AI, Machine Learning, Deep Learning, and Distributed Systems**. I have experience working as a **Software Engineer at IBM & HPE** and conducting **AI research** at UMBC.
 </p>
 
-- 🔬 **AI Research:** Multimodal lie detection using EEG & facial expressions with ChronoNet and ResNet.
-- 🚀 **Software Engineering:** Experience in cloud-based solutions, distributed storage, and ML infrastructure.
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1GdCquLV3BDOX2BF08x_KmwVTpnti63EI/view?usp=sharing)
+- 🔬 **AI Research:** Multimodal lie detection using EEG & facial expressions with Deep Learning.
+- 🚀 **Software Engineering:** Experience in Mahine Learning, distributed systems, Human-Robot Interection.
+- 📄 **Know about my experiences:** [Resume]([nti63EI/view?usp=sharing](https://drive.google.com/file/d/1MW-xlpzDG3UmbV2JJR-pZbJNrn0iahfI/view?usp=drive_link))
 
 ---
 
