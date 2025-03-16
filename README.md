@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaswat Shah</h1>
+<h1 align="center">Hi 👋, I'm Jay Paun</h1>
 <h3 align="center">I am a student at Illinois Institue of Technology pursuing master's in Computer Engineering. I love coding and reading novels. As a coding enthusiast, I take great pride in my keen eye for detail and my unwavering commitment to creating innovations that shape our world for the better.</h3>
 
-- 📫 How to reach me **shaswatshah2727@gmail.com**
+- 📫 How to reach me **jay.maryland2023@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GdCquLV3BDOX2BF08x_KmwVTpnti63EI/view?usp=sharing]
 
