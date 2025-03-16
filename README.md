@@ -11,7 +11,7 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-I am a Master's student in Computer Science at the <b>University of Maryland, Baltimore County (UMBC)</b> <img src="[/120px-University_of_Maryland%2C_Baltimore_County_seal.svg.png](https://styleguide.umbc.edu/wp-content/uploads/sites/113/2019/01/UMBC-vertical-logo-RGB-665x1024.png)" width="20" height="20" /> with expertise in <b>AI, Machine Learning, Deep Learning, and Distributed Systems</b>. I have experience working as a <b>Software Engineer at IBM & HPE</b> and conducting <b>AI research</b> at UMBC.
+I am a Master's student in Computer Science at the <b>University of Maryland, Baltimore County (UMBC)</b> <img src="https://styleguide.umbc.edu/wp-content/uploads/sites/113/2019/01/UMBC-vertical-logo-RGB-665x1024.png" width="20" height="20" /> with expertise in <b>AI, Machine Learning, Deep Learning, and Distributed Systems</b>. I have experience working as a <b>Software Engineer at IBM & HPE</b> and conducting <b>AI research</b> at UMBC.
 </p>
 
 - 🔬 <b>AI Research:</b> Multimodal lie detection using EEG & facial expressions with Deep Learning.
