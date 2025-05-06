@@ -28,7 +28,7 @@ I am a Master's student in Computer Science at the <b>University of Maryland, Ba
 <a href="https://github.com/Jay2704">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
-<a href="https://leetcode.com/u/Decoder2704/">
+<a href="https://leetcode.com/u/ITS_HAMMER_TIME/">
   <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
 </a>
 </p>
