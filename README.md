@@ -16,7 +16,7 @@ I am a Master's student in Computer Science at the <b>University of Maryland, Ba
 
 - 🔬 <b>AI Research:</b> Multimodal lie detection using EEG & facial expressions with Deep Learning.
 - 🚀 <b>Software Engineering:</b> Experience in Machine Learning, distributed systems, Human-Robot Interaction.
-- 📄 <b>Know about my experiences:</b> <a href="https://drive.google.com/file/d/1MW-xlpzDG3UmbV2JJR-pZbJNrn0iahfI/view?usp=drive_link">Resume</a>
+- 📄 <b>Know about my experiences:</b> <a href="[https://drive.google.com/file/d/1MW-xlpzDG3UmbV2JJR-pZbJNrn0iahfI/view?usp=drive_link](https://drive.google.com/file/d/1jtni65UGFvGzDI8fU_yIiMMgYu0-3vpI/view?usp=drive_link)">Resume</a>
 
 ---
 
