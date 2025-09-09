@@ -13,7 +13,7 @@
 I'm a Master's student in Computer Science at <b>University of Maryland, Baltimore County (UMBC)</b> with a strong background in <b>Artificial Intelligence, Machine Learning, Deep Learning, and Distributed Systems</b>. I’ve worked as a Software Engineer at <b>IBM</b> and <b>Hewlett Packard Enterprise</b>, where I automated infrastructure workflows and optimized large-scale cloud systems. At UMBC, I contributed to AI research focused on multimodal lie detection using EEG and facial expression data, improving classification accuracy in human-centered applications. 
 </p>
 <p>
-Currently, I'm developing <b>AstroVoyages</b> — a full-stack platform that merges astrology with Generative AI to provide personalized astrological insights through intelligent automation and conversational UX. I’m passionate about building scalable, intelligent systems that deliver meaningful user experiences and solving real-world problems through interdisciplinary innovation.
+Currently, I'm developing and contributing to <b>AstroVoyages</b> — a full-stack platform that merges astrology with Generative AI to provide personalized astrological insights through intelligent automation and conversational UX. I’m passionate about building scalable, intelligent systems that deliver meaningful user experiences and solving real-world problems through interdisciplinary innovation.
 </p>
 <p>
 You can learn more about my experience in my <a href="https://drive.google.com/file/d/1jtni65UGFvGzDI8fU_yIiMMgYu0-3vpI/view?usp=drive_link" target="_blank">resume</a>.
