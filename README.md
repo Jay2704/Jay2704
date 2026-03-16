@@ -20,6 +20,8 @@ You can learn more about my experience in my <a href="https://drive.google.com/f
 </p>
 ---
 
+<h2 align = "left"> Exceptions are exceptionally handled</h2>
+
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jay-paun-baa8ab217/">
