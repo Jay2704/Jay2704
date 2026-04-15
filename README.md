@@ -10,10 +10,11 @@
 ---
 <h3 align="left">About Me:</h3>
 <p>
-I'm a Master's student in Computer Science at <b>University of Maryland, Baltimore County (UMBC)</b> with a strong background in <b>Artificial Intelligence, Machine Learning, Deep Learning, and Distributed Systems</b>. I’ve worked as a Software Engineer at <b>IBM</b> and <b>Hewlett Packard Enterprise</b>, where I automated infrastructure workflows and optimized large-scale cloud systems. At UMBC, I contributed to AI research focused on multimodal lie detection using EEG and facial expression data, improving classification accuracy in human-centered applications. 
+I'm a Data Scientist with over 4.5 years of experience working in financial services and enterprise environments, with a strong background in Machine Learning, Natural Language Processing, and large-scale data systems. I’ve worked at <b>JPMorgan Chase</b> and <b>Capgemini</b>, where I built and deployed data-driven solutions for use cases like fraud detection, credit risk modeling, churn prediction, and large-scale data processing.
 </p>
+
 <p>
-Currently, I'm developing and contributing to <b>AstroVoyages</b> — a full-stack platform that merges astrology with Generative AI to provide personalized astrological insights through intelligent automation and conversational UX. I’m passionate about building scalable, intelligent systems that deliver meaningful user experiences and solving real-world problems through interdisciplinary innovation.
+More recently, I’ve been focusing on Generative AI and LLM-based systems, building end-to-end solutions using RAG architectures, vector databases, and knowledge graphs. I enjoy working at the intersection of data science and engineering, developing scalable systems that are reliable, explainable, and useful in real-world applications. I’m particularly interested in building intelligent systems that combine machine learning with practical product thinking to solve complex problems.
 </p>
 <p>
 You can learn more about my experience in my <a href="https://drive.google.com/file/d/1jtni65UGFvGzDI8fU_yIiMMgYu0-3vpI/view?usp=drive_link" target="_blank">resume</a>.
