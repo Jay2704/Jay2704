@@ -10,7 +10,7 @@
 ---
 <h3 align="left">About Me:</h3>
 <p>
-I'm a Data Scientist with over 4 years of experience working in financial services and enterprise environments, with a strong background in Machine Learning, Natural Language Processing, and large-scale data systems. I’ve worked at <b>JPMorgan Chase</b> and <b>Capgemini</b>, where I built and deployed data-driven solutions for use cases like fraud detection, credit risk modeling, churn prediction, and large-scale data processing.
+I'm a Data Scientist with over 4.5 years of experience working in financial services and enterprise environments, with a strong background in Machine Learning, Natural Language Processing, and large-scale data systems. I’ve worked at <b>JPMorgan Chase</b> and <b>Capgemini</b>, where I built and deployed data-driven solutions for use cases like fraud detection, credit risk modeling, churn prediction, and large-scale data processing.
 </p>
 
 <p>
