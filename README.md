@@ -1,27 +1,51 @@
 <h1 align="center">Hi 👋, I'm Jay Paun</h1>
-<h3 align="center">AI Researcher | Data Scientist </h3>
+
+<h3 align="center">
+Full Stack AI Engineer | Applied AI | LLMs | Agentic AI | Python | FastAPI | React
+</h3>
 
 <p align="center">
-  <a href="mailto:jay.maryland2023@gmail.com">📫 Email Me</a> |
-  <a href="https://www.linkedin.com/in/jay-paun-baa8ab217/">LinkedIn</a> |
+  <a href="mailto:jay.maryland2023@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/jay-paun-baa8ab217/">LinkedIn</a> •
   <a href="https://github.com/Jay2704">GitHub</a>
 </p>
 
 ---
-<h3 align="left">About Me:</h3>
-<p>
-I'm a Data Scientist with over 4.5 years of experience working in financial services and enterprise environments, with a strong background in Machine Learning, Natural Language Processing, and large-scale data systems. I’ve worked at <b>JPMorgan Chase</b> and <b>Capgemini</b>, where I built and deployed data-driven solutions for use cases like fraud detection, credit risk modeling, churn prediction, and large-scale data processing.
-</p>
 
-<p>
-More recently, I’ve been focusing on Generative AI and LLM-based systems, building end-to-end solutions using RAG architectures, vector databases, and knowledge graphs. I enjoy working at the intersection of data science and engineering, developing scalable systems that are reliable, explainable, and useful in real-world applications. I’m particularly interested in building intelligent systems that combine machine learning with practical product thinking to solve complex problems.
-</p>
-<p>
-You can learn more about my experience in my <a href="https://drive.google.com/file/d/1jtni65UGFvGzDI8fU_yIiMMgYu0-3vpI/view?usp=drive_link" target="_blank">resume</a>.
-</p>
+## About Me
+
+I'm a Full Stack AI Engineer passionate about building intelligent software that combines machine learning, scalable backend systems, and modern web applications. I enjoy taking AI solutions from research to production by designing end-to-end applications powered by LLMs, agentic AI, knowledge graphs, computer vision, and natural language processing.
+
+I'm currently pursuing an M.S. in Computer Science at the University of Maryland, Baltimore County (UMBC), where I conduct research in Brain–Computer Interfaces (BCI), multimodal deep learning, and EEG-based lie detection. My work spans both research and production, from developing AI models to deploying scalable APIs and interactive web applications.
+
+Previously, I worked as a Software Engineer at IBM and Hewlett Packard Enterprise, building developer tools, infrastructure automation, cloud migration workflows, and production-ready engineering platforms. My recent projects include AI-powered debugging systems, GraphRAG applications, multimodal learning, and intelligent NLP solutions.
+
+I enjoy building reliable AI systems that are explainable, scalable, and solve real-world engineering problems.
+
+📄 **Resume:**  
+<a href="https://drive.google.com/file/d/1jtni65UGFvGzDI8fU_yIiMMgYu0-3vpI/view?usp=drive_link" target="_blank">View Resume</a>
+
 ---
 
-<h2 align = "left"> Exceptions are exceptionally handled</h2> 
+## Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, SQL
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend:** FastAPI, Flask, REST APIs
+
+**AI & ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face Transformers
+
+**LLMs:** LangChain, GraphRAG, RAG, Agentic AI, MCP
+
+**Databases:** PostgreSQL, MongoDB, Neo4j, Redis
+
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, GitHub Actions
+
+---
+
+> *"Building production-ready AI systems where software engineering meets machine learning."*
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
