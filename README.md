@@ -23,7 +23,7 @@ Previously, I worked as a Software Engineer at IBM and Hewlett Packard Enterpris
 I enjoy building reliable AI systems that are explainable, scalable, and solve real-world engineering problems.
 
 📄 **Resume:**  
-<a href="[https://drive.google.com/file/d/1jtni65UGFvGzDI8fU_yIiMMgYu0-3vpI/view?usp=drive_link](https://drive.google.com/file/d/1p42tJtNWMQcZMgOCd3M4ai20TXM8nXvw/view?usp=sharing)" target="_blank">View Resume</a>
+<a href="https://drive.google.com/file/d/1p42tJtNWMQcZMgOCd3M4ai20TXM8nXvw/view?usp=sharing">View Resume</a>
 
 ---
 
