@@ -14,13 +14,7 @@ Full Stack AI Engineer | Applied AI | LLMs | Agentic AI | Python | FastAPI | Rea
 
 ## About Me
 
-I'm a Full Stack AI Engineer passionate about building intelligent software that combines machine learning, scalable backend systems, and modern web applications. I enjoy taking AI solutions from research to production by designing end-to-end applications powered by LLMs, agentic AI, knowledge graphs, computer vision, and natural language processing.
-
-I'm currently pursuing an M.S. in Computer Science at the University of Maryland, Baltimore County (UMBC), where I conduct research in Brain–Computer Interfaces (BCI), multimodal deep learning, and EEG-based lie detection. My work spans both research and production, from developing AI models to deploying scalable APIs and interactive web applications.
-
-Previously, I worked as a Software Engineer at IBM and Hewlett Packard Enterprise, building developer tools, infrastructure automation, cloud migration workflows, and production-ready engineering platforms. My recent projects include AI-powered debugging systems, GraphRAG applications, multimodal learning, and intelligent NLP solutions.
-
-I enjoy building reliable AI systems that are explainable, scalable, and solve real-world engineering problems.
+Software Engineer with an M.S. in Computer Science from the University of Maryland, Baltimore County (UMBC) and experience building production software, cloud automation, and AI/ML systems. Experienced in Python, backend development, REST APIs, distributed systems, AWS, Docker, Jenkins, and CI/CD, with hands-on expertise in PyTorch, Transformers, Computer Vision, LLMs, RAG, GraphRAG, and Agentic AI. Proven experience at IBM and Hewlett Packard Enterprise developing enterprise automation, log analysis platforms, infrastructure workflows, and production-ready engineering tools. Currently working as an AI Researcher at UMBC, developing multimodal deep learning systems for EEG and facial analysis. Strong interest in building scalable backend systems, intelligent applications, and AI-powered engineering solutions.
 
 📄 **Resume:**  
 <a href="https://drive.google.com/file/d/1p42tJtNWMQcZMgOCd3M4ai20TXM8nXvw/view?usp=sharing">View Resume</a>
